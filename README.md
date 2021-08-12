@@ -18,7 +18,7 @@
 3. Regularization using Dropouts ( to make network more efficient and prevent overfitting)
 4. Callbacks (stops training when reached at certain level)
 
-### 4) Sign Language Classifier
+### 4) Sign Language Classifier (Multiclass Classificaton)
 #### Concepts used:
 1. Data Augmentation
 2. Convolution Neural Networks
