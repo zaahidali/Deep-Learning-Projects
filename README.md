@@ -23,3 +23,6 @@
 2. Data Augmentation
 3. Regularization using Dropouts ( to make network more efficient and prevent overfitting)
 4. Callbacks (stops training when reached at certain level)
+
+### 5) GAN
+
