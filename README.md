@@ -29,3 +29,5 @@
 ### 6) Deep Convolution GAN (DC-GAN)
 
 ### 7) Conditional GAN (C-GAN)
+
+### 8) Wasserstein GAN (W-GAN)
