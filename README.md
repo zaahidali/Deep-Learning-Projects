@@ -28,6 +28,7 @@
 #### Concepts used:
 1. Generator
 2. Discriminator
+3. Classification
 
 
 ### 6) Deep Convolution GAN (DC-GAN)
