@@ -26,3 +26,4 @@
 
 ### 5) GAN
 
+### 6) Deep Convolution GAN (DC-GAN)
