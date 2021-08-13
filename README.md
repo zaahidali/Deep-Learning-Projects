@@ -25,6 +25,10 @@
 4. Callbacks (stops training when reached at certain level)
 
 ### 5) GAN
+#### Concepts used:
+1. Generator
+2. Discriminator
+
 
 ### 6) Deep Convolution GAN (DC-GAN)
 
