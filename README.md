@@ -39,9 +39,11 @@
 4. Transpose Convolution
 
 ### 7) Conditional GAN (C-GAN)
+#### Concepts used:
 1. Generator
 2. Descrimantor
 3. BatchNorm
 4. Transpose Convolution
 
 ### 8) Wasserstein GAN (W-GAN)
+
