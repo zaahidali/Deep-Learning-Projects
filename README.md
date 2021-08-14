@@ -27,14 +27,15 @@
 ### 5) GAN
 #### Concepts used:
 1. Generator
-2. Discriminator
-3. Classification
+2. Discriminator (Classifier)
+3. Linear Transformation
+4. Batch Normalization
 
 
 ### 6) Deep Convolution GAN (DC-GAN)
 #### Concepts used:
 1. Generator
-2. Discriminator (Classification)
+2. Discriminator (Classifier)
 3. Batch Normalization
 4. Transpose Convolution
 
