@@ -32,6 +32,11 @@
 
 
 ### 6) Deep Convolution GAN (DC-GAN)
+#### Concepts used:
+1. Generator
+2. Discriminator (Classification)
+3. Batch Normalization
+4. Transpose Convolution
 
 ### 7) Conditional GAN (C-GAN)
 
