@@ -46,6 +46,7 @@
 4. Transpose Convolution
 
 ### 8) Wasserstein GAN (W-GAN)
+#### Concepts used:
 1. Generator
 2. Critic (Discriminator/Classifier)
 3. BatchNorm
