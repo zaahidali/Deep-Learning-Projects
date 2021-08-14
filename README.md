@@ -46,4 +46,11 @@
 4. Transpose Convolution
 
 ### 8) Wasserstein GAN (W-GAN)
+1. Generator
+2. Critic (Discriminator/Classifier)
+3. BatchNorm
+4. Transpose Convolution
+5. Gradient Penalty (To prevent mode collapse)
+6. Wasserstein loss
+
 
