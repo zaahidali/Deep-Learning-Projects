@@ -55,4 +55,10 @@
 5. Gradient Penalty (To prevent mode collapse)
 6. Wasserstein loss
 
+### 9) Text Classification (NLP)
+#### Concepts used:
+1. Word Embedding
+2. Tokens
+3. Pad Sequence
+4. Visualization using Tensorflow Projector
 
