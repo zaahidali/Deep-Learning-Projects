@@ -23,3 +23,36 @@
 2. Data Augmentation
 3. Regularization using Dropouts ( to make network more efficient and prevent overfitting)
 4. Callbacks (stops training when reached at certain level)
+
+### 5) GAN
+#### Concepts used:
+1. Generator
+2. Discriminator (Classifier)
+3. Linear Transformation
+4. Batch Normalization
+
+
+### 6) Deep Convolution GAN (DC-GAN)
+#### Concepts used:
+1. Generator
+2. Discriminator (Classifier)
+3. Batch Normalization
+4. Transpose Convolution
+
+### 7) Conditional GAN (C-GAN)
+#### Concepts used:
+1. Generator
+2. Descrimantor
+3. BatchNorm
+4. Transpose Convolution
+
+### 8) Wasserstein GAN (W-GAN)
+#### Concepts used:
+1. Generator
+2. Critic (Discriminator/Classifier)
+3. BatchNorm
+4. Transpose Convolution
+5. Gradient Penalty (To prevent mode collapse)
+6. Wasserstein loss
+
+
