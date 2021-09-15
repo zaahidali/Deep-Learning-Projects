@@ -10,6 +10,8 @@
 | 04. |[Humans vs Horses Classifier](#p-humans-vs-horses-classifier)|
 | 05. |[GAN](#p-gan)|
 | 06. |[Deep Convolution GAN](#p-deep-convolution-gan)|
+| 07. |[Conditional GAN](#p-conditional-gan)|
+
 <br/>
 
 
@@ -87,7 +89,7 @@
 
 
 <!-- 7 -->
-### 7) Conditional GAN (C-GAN)
+## P. ***Conditional GAN***
 #### Concepts used:
 1. Generator
 2. Descrimantor
