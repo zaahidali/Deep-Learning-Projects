@@ -5,23 +5,14 @@
 |S.No|   Projects                                              |
 |-----|----------------------------------------------------------|
 | 01. |[Cats vs Dogs Classifier](#p-cats-vs-dogs-classifier)|
-| 02. |[Rock Paper and Scissors Classifier](#p-rock-paper-scissors-classifier)|
+| 02. |[Rock Paper and Scissors Classifier](#p-rock-paper-and-scissors-classifier)|
+| 03. |[American Sign Language Classifier](#p-american-sign-language-classifier)|
 
 
 <br/>
 
-<!-- ## Q. ***What are Collections?*** -->
 
-<!-- Collections are a fundamental way to store and organize data. -->
-
-<!-- ## P.) Cats vs Dogs Classifier using Transfer Learning (Binary Classification) -->
-<!-- ## P. ***Cats vs Dogs Classifier using Transfer Learning (Binary Classification)***
-#### Concepts used:
-1. Transfer Learning (pre-trained InceptionV3 network)
-2. Data Augmentation
-3. Regularization using Dropouts ( to make network more efficient and prevent overfitting) -->
-
-
+<!-- 1 -->
 ## P. ***Cats vs Dogs Classifier***
 #### Concepts used:
 <b> Transfer Learning (Binary Classification) </b>
@@ -34,13 +25,7 @@
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-<!-- ## Q. ***What are Collections?***
-
-Collections are a fundamental way to store and organize data. -->
-
-
-
- 
+<!-- 2 -->
 ## P. ***Rock Paper and Scissors Classifier***
 #### Concepts used:
 <b> Multiclass Classification</b>
@@ -52,10 +37,15 @@ Collections are a fundamental way to store and organize data. -->
 </div>
 
 
-### 3) Sign Language Classifier (Multiclass Classificaton)
+## P. American Sign Language Classifier 
 #### Concepts used:
+<b>Multiclass Classificaton)</b>
 1. Data Augmentation
 2. Convolution Neural Networks
+
+<div align='right'>
+    <b><a href="#">↥ back to top</b>
+</div>
 
 ### 4) Humans vs Horses Classifier using Transfer Learning
 #### Concepts used:
