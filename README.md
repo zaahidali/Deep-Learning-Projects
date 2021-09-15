@@ -7,8 +7,9 @@
 | 01. |[Cats vs Dogs Classifier](#p-cats-vs-dogs-classifier)|
 | 02. |[Rock Paper and Scissors Classifier](#p-rock-paper-and-scissors-classifier)|
 | 03. |[American Sign Language Classifier](#p-american-sign-language-classifier)|
-
-
+| 04. |[Humans vs Horses Classifier](#p-humans-vs-horses-classifier)|
+| 05. |[GAN](#p-gan)|
+| 06. |[Deep Convolution GAN](#p-deep-convolution-gan)|
 <br/>
 
 
@@ -36,45 +37,67 @@
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-
-## P. American Sign Language Classifier 
+<!-- 3 -->
+## P. ***American Sign Language Classifier*** 
 #### Concepts used:
-<b>Multiclass Classificaton)</b>
+<b>Multiclass Classificaton</b>
 1. Data Augmentation
 2. Convolution Neural Networks
 
 <div align='right'>
-    <b><a href="#">↥ back to top</b>
+    <b><a href="#">↥ back to top</a></b>
 </div>
 
-### 4) Humans vs Horses Classifier using Transfer Learning
+<!-- 4 -->
+## P. ***Humans vs Horses Classifier***
 #### Concepts used:
+<b> Transfer Learning</b>
 1. Transfer Learning (pre-trained InceptionV3 network)
 2. Data Augmentation
 3. Regularization using Dropouts ( to make network more efficient and prevent overfitting)
 4. Callbacks (stops training when reached at certain level)
 
-### 5) GAN
+<div align='right'>
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+<!-- 5 -->
+## P. ***GAN***
 #### Concepts used:
 1. Generator
 2. Discriminator (Classifier)
 3. Linear Transformation
 4. Batch Normalization
 
+<div align='right'>
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
-### 6) Deep Convolution GAN (DC-GAN)
+<!-- 6 -->
+## P. ***Deep Convolution GAN***
 #### Concepts used:
 1. Generator
 2. Discriminator (Classifier)
 3. Batch Normalization
 4. Transpose Convolution
 
+<div align='right'>
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+
+<!-- 7 -->
 ### 7) Conditional GAN (C-GAN)
 #### Concepts used:
 1. Generator
 2. Descrimantor
 3. BatchNorm
 4. Transpose Convolution
+
+<div align='right'>
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 
 ### 8) Wasserstein GAN (W-GAN)
 #### Concepts used:
