@@ -1,6 +1,28 @@
 # Deep Learning Projects
 
-### 1) Cats vs Dogs Classifier using Transfer Learning (Binary Classification)
+<br/>
+
+|S.No|   Projects                                              |
+|-----|----------------------------------------------------------|
+| 01. |[Cats vs Dogs Classifier](#p-cats-vs-dogs-classifier)|
+
+<br/>
+
+## Q. ***What are Collections?***
+
+Collections are a fundamental way to store and organize data.
+
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+<!-- ## Q. ***What are Collections?***
+
+Collections are a fundamental way to store and organize data. -->
+
+
+### p.1) Cats vs Dogs Classifier using Transfer Learning (Binary Classification)
 #### Concepts used:
 1. Transfer Learning (pre-trained InceptionV3 network)
 2. Data Augmentation
