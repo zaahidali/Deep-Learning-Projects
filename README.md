@@ -11,6 +11,8 @@
 | 05. |[GAN](#p-gan)|
 | 06. |[Deep Convolution GAN](#p-deep-convolution-gan)|
 | 07. |[Conditional GAN](#p-conditional-gan)|
+| 08. |[Wasserstein GAN](#p-wasserstein-gan)|
+| 09. |[Text Classification](#p-text-classification)|
 
 <br/>
 
@@ -100,8 +102,8 @@
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-
-### 8) Wasserstein GAN (W-GAN)
+<!-- 8 -->
+## P. ***Wasserstein GAN***
 #### Concepts used:
 1. Generator
 2. Critic (Discriminator/Classifier)
@@ -110,10 +112,18 @@
 5. Gradient Penalty (To prevent mode collapse)
 6. Wasserstein loss
 
-### 9) Text Classification (NLP)
+<div align='right'>
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+<!-- 9 -->
+### P. ***Text Classification***
 #### Concepts used:
 1. Word Embedding
 2. Tokens
 3. Pad Sequence
 4. Visualization using Tensorflow Projector
 
+<div align='right'>
+    <b><a href="#">↥ back to top</a></b>
+</div>
