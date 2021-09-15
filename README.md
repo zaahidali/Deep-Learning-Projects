@@ -8,9 +8,24 @@
 
 <br/>
 
-## Q. ***What are Collections?***
+<!-- ## Q. ***What are Collections?*** -->
 
-Collections are a fundamental way to store and organize data.
+<!-- Collections are a fundamental way to store and organize data. -->
+
+<!-- ## P.) Cats vs Dogs Classifier using Transfer Learning (Binary Classification) -->
+<!-- ## P. ***Cats vs Dogs Classifier using Transfer Learning (Binary Classification)***
+#### Concepts used:
+1. Transfer Learning (pre-trained InceptionV3 network)
+2. Data Augmentation
+3. Regularization using Dropouts ( to make network more efficient and prevent overfitting) -->
+
+
+## P. ***Cats vs Dogs Classifier***
+#### Concepts used:
+<b> Transfer Learning (Binary Classification) </b>
+1. Transfer Learning (pre-trained InceptionV3 network)
+2. Data Augmentation
+3. Regularization using Dropouts ( to make network more efficient and prevent overfitting)
 
 
 <div align="right">
@@ -22,11 +37,6 @@ Collections are a fundamental way to store and organize data.
 Collections are a fundamental way to store and organize data. -->
 
 
-### p.1) Cats vs Dogs Classifier using Transfer Learning (Binary Classification)
-#### Concepts used:
-1. Transfer Learning (pre-trained InceptionV3 network)
-2. Data Augmentation
-3. Regularization using Dropouts ( to make network more efficient and prevent overfitting)
 
 ### 2) Rock, Paper and Scissors Classifier (Multiclass Classification)
 #### Concepts used:
