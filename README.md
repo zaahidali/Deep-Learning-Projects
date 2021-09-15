@@ -5,6 +5,8 @@
 |S.No|   Projects                                              |
 |-----|----------------------------------------------------------|
 | 01. |[Cats vs Dogs Classifier](#p-cats-vs-dogs-classifier)|
+| 02. |[Rock Paper and Scissors Classifier](#p-rock-paper-scissors-classifier)|
+
 
 <br/>
 
@@ -38,10 +40,16 @@ Collections are a fundamental way to store and organize data. -->
 
 
 
-### 2) Rock, Paper and Scissors Classifier (Multiclass Classification)
+ 
+## P. ***Rock Paper and Scissors Classifier***
 #### Concepts used:
+<b> Multiclass Classification</b>
 1. Data Augmentation
 2. Regularization using Dropouts ( to make network more efficient and prevent overfitting)
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 
 ### 3) Sign Language Classifier (Multiclass Classificaton)
